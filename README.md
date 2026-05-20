@@ -65,4 +65,6 @@ The dashboard provides a comprehensive overview of traffic incidents spanning fr
 1. **Time Filtering:** Use the slider in the top right corner to filter data between the years **2008** and **2013**.
 2. **Cross-Filtering:** Click on any specific day of the week (e.g., *Friday*) or a light condition segment to dynamically update the rest of the dashboard for that specific subset.
 3. **Drill-Down:** Use the decomposition tree at the bottom center to expand road classes and investigate underlying weather data.
+
+
 Dashboard Preview:https://github.com/Nayak19navya/Traffic-Accident-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png.png
